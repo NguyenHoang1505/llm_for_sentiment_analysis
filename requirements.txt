@@ -1,0 +1,17 @@
+regex==2024.9.11
+emoji==2.13.2
+vncorenlp==1.0.3
+nltk==3.9.1
+numpy==2.1.1
+pandas==2.2.3
+torch==2.4.1
+transformers==4.44.2
+bitsandbytes==0.43.3
+accelerate==0.34.2
+ipywidgets==8.1.5
+scikit-learn==1.5.1
+datasets==3.0.0
+peft==0.12.0
+trl==0.11.0
+tensorboardX==2.6.2.2
+matplotlib==3.10.0
