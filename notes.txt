@@ -1,5 +1,0 @@
-Làm giàu dữ liệu + bằng llm + 
-Window chạy rất mượt mà+ hđh window chạy rất nhanh
-với mỗi sampel sinh ra 5-7-10 nếu sinh ra quá nhiều thì không còn hay nữa (Ưu tiên)
-
-=> Dùng sample_size = 1000  gen 1000 sample đầu tiên, mỗi sample gen 3 sample mới
